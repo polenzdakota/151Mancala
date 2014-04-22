@@ -93,7 +93,6 @@ public class Board {
 	
 	/*
 	 * Returns a copy of the current board state.
-	 * @return a copy of the current board state.
 	 */
 	public int[] getCurrentBoardState() {
 		return board.clone();
